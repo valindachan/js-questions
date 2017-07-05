@@ -116,7 +116,7 @@ let d = (null == false);
 
 // 18.
 let e = (NaN == null);
-// A. true
+// A. false
 
 
 // 19.
